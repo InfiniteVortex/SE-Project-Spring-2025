@@ -17,7 +17,7 @@
   Parker Dugan - Unity Developer, AI Developer  
   Braeden Lamb - 3D Artist  
   Brian Lewandowski - Course Instructor  
-  Zimani Malomboza -   
-  Ethan Morse - Unity Developer, AI Developer  
+  Zimani Malomboza -   Unity Developer, AI Developer
+  Ethan Morse - Unity Developer, AI Developer 
 
 (This overview is unfinished and subject to change)
